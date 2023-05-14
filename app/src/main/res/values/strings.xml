@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FastScanner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pm_denial">Camera permission denied.</string>
+    <string name="grant">Grant</string>
+    <string name="cam_pm">Camera permission</string>
+    <string name="grant_pm_rationale">Please grant camera permission to scan QR and barcodes.</string>
+    <string name="cancel">Cancel</string>
+    <string name="pm_denial_permanant">Camera permission denied permanently. Correct this in the system settings.</string>
+    <string name="no_cam">Could not find any cameras</string>
+    <string name="no_cam_msg">The device does not have a camera, so no codes can be scanned.\nTry using an external camera to add this functionality to your device.</string>
+    <string name="no_model">The QR/barcode reading model is not available.\nCheck/Upgrade your MicroG or Google Play Services and try again.</string>
+
+</resources>
